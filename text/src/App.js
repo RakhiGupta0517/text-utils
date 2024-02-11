@@ -34,15 +34,7 @@ function App() {
     }
   }
   return (
-    // <>
-    //  <Navbar mode = {mode} toggleMode= {toggleMode}/>
-    //  <Alert alert ={alert}/>
-    //  <div className="container my-3">
-    //  {/* <About/> */}
-    //  <Textform  showAlert = {showAlert} heading = "Enter the Text to analyse below" mode = {mode}/>
-    //  </div>
-    
-    //   </>
+ 
 
  <> 
  <Router>

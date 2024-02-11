@@ -19,7 +19,7 @@ function Textform(props) {
 	}
 
 	const handleCopy= () => {
-		navigator.clipboard.writeText(textt)
+		navigator.clipboard.writeText(text)
 		props.showAlert("copied to clipboard","success")
 	}
 
